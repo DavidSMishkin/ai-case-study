@@ -18,7 +18,10 @@ Module 1 Challenge - by David Mishkin
 
 ## Overview and Origin
 
-* Name of Company: Tesla Motors
-* Company Incorporation: Tesla Motors was founded in 2003 in San Carlos, CA
-* Founders
+* Name of Company: Tesla, Inc.
+* Company Incorporation: Tesla, Inc. was founded in 2003 in San Carlos, CA
+* Founders: The company was founded in 2003 by two Silicon Valley engineers
+  Martin Eberhard and Marc Tarpenning, who wanted to prove that  
+  "electric vehicles can be better, quicker and more fun to drive than gasoline cars.”
+  
 * Idea Origin
