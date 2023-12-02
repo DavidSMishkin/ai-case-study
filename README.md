@@ -13,6 +13,8 @@ Module 1 Challenge - David Mishkin
 4. ### Idea Origin
 
 # Tesla Motors
+AI Case Study  
+Module 1 Challenge - by David Mishkin
 
 ## Overview and Origin
 
