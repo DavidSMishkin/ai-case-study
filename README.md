@@ -36,3 +36,7 @@ From July 2019 to June 2020, Tesla reported four consecutive profitable quarters
 
 ## Business Activities:
 
+* Problem Addressed:
+
+Tesla, Inc viewed itself and its automobile offerings as a "Technology Company" rather than a simple automobile manufacturer. Its significant AI contribution was the self-driving autonomous software that provided customers with a new paradigm for driving without manual openration. 
+
