@@ -24,4 +24,4 @@ Module 1 Challenge - by David Mishkin
   Martin Eberhard and Marc Tarpenning, who wanted to prove that    
   "electric vehicles can be better, quicker and more fun to drive than gasoline cars.”
   
-* Idea Origin
+* Idea Origin: The founders were influenced to start the company after General Motors recalled all its EV1 electric cars in 2003 and then destroyed them, and seeing the higher fuel efficiency of battery-electric cars as an opportunity to break the usual correlation between high performance and low fuel economy in automobiles.
