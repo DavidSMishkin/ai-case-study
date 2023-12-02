@@ -2,9 +2,11 @@
 AI case Study  
 Module 1 Challenge - David Mishkin
 
-1. **Name of Company:** Tesla     
+1. **Name of Company:** Tesla Motors
+       
 2. ### Company Incorporation
-   - Tesla Motors was founded in 2003 in San Carlos, CA    
+   - Tesla Motors was founded in 2003 in San Carlos, CA
+   
 3. ### Founders:
    - Elon Musk
 4. ### Idea Origin   
