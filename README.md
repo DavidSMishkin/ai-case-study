@@ -1,6 +1,7 @@
 ## Tesla Motors   
 AI case Study  
 Module 1 Challenge - David Mishkin
+### Overview and Origin of Tesla Motors
 
 1. **Name of Company:** Tesla Motors
        
