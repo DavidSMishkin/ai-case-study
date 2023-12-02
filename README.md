@@ -6,4 +6,5 @@ Module 1 Challenge - David Mishkin
 2. ### Company Incorporation
    - Tesla Motors was founded in 2003 in San Carlos, CA    
 3. ### Founders:
-   - Elon Musk    
+   - Elon Musk
+* Idea Origin   
