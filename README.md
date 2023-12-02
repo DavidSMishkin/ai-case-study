@@ -12,8 +12,11 @@ Module 1 Challenge - David Mishkin
    
 4. ### Idea Origin
 
-# TITLE
+# Tesla Motors
 
 ## Overview and Origin
 
-* Name of Company
+* Name of Company: Tesla Motors
+* Company Incorporation
+* Founders
+* Idea Origin
