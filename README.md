@@ -12,14 +12,14 @@ Module 1 Challenge - David Mishkin
    
 4. ### Idea Origin
 
-# Tesla Motors
+# Tesla Motors:
 AI Case Study  
 Module 1 Challenge - by David Mishkin
 
-## Overview and Origin
+## Overview and Origin:
 
-* Name of Company: Tesla, Inc.
-* Company Incorporation: Tesla, Inc. was founded in 2003 in San Carlos, CA
+* Name of Company: Tesla, Inc.  
+* Company Incorporation: Tesla, Inc. was founded in 2003 in San Carlos, CA  
 * Founders: The company was founded in 2003 by two Silicon Valley engineers Martin Eberhard and Marc Tarpenning, who wanted to prove that "electric vehicles can be better, quicker and more fun to drive than gasoline cars.”
   
 * Idea Origin:
@@ -33,3 +33,6 @@ Inital Funding for the company was obtained from a variety of sources, most nota
 In January 2012, Tesla introduced the Model S luxury sedan. The Model S won several automotive awards during 2012 and 2013, including the 2013 Motor Trend Car of the Year,and became the first electric car to top the monthly sales ranking of a country, when it achieved first place in the Norwegian new car sales list in September 2013. The Model S was also the bestselling plug-in electric car worldwide for the years 2015 and 2016. Tesla announced the Tesla Autopilot, a driver-assistance system, in 2014. In September that year, all Tesla cars started shipping with sensors and software to support the feature, with what would later be called "hardware version 1". Tesla began building large factories it called Gigafactories to produce batteries and vehicles. The first such factory opened in 2016 outside Reno, Nevada. Gigafactories were opened in Buffalo, New York, and Shanghai, China, and more Gigafactories were planned. By the end of 2018, the Model 3 would become the world's bestselling electric car from 2018 to 2021.
 
 From July 2019 to June 2020, Tesla reported four consecutive profitable quarters for the first time, which made it eligible for inclusion in the S&P 500. Tesla was added to the index on December 21, 2020. It was the most valuable company ever added, already the sixth-largest member. During 2020, the share price increased 740%, and on January 26, 2021, its market capitalization reached $848 billion, more than the next nine largest automakers combined and becoming the US' 5th most valuable company.
+
+## Business Activities:
+
