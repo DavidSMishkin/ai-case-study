@@ -12,15 +12,15 @@ Module 1 Challenge - David Mishkin
    
 4. ### Idea Origin
 
-# Tesla Motors:
+# Tesla, Inc.
 AI Case Study  
 Module 1 Challenge - by David Mishkin
 
 ## Overview and Origin:
 
-* **Name of Company:** Tesla, Inc.  
+* **Name of Company:** Tesla, Inc. (also known as Tesla Motors) 
 * **Company Incorporation:** Tesla, Inc. was founded in 2003 in San Carlos, CA  
-* **Founders:** The company was founded in 2003 by two Silicon Valley engineers **Martin Eberhard and Marc Tarpenning** who wanted to prove that "electric vehicles can be better, quicker and more fun to drive than gasoline cars.”
+* **Founders:** The company was founded by two Silicon Valley engineers **Martin Eberhard and Marc Tarpenning** who wanted to prove that electric vehicles can be better, quicker and more fun to drive than gasoline cars.
   
 * **Idea Origin:**
     
