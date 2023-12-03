@@ -24,9 +24,9 @@ Module 1 Challenge - by David Mishkin
   
 * Idea Origin:
     
-The founders were influenced to start the company after General Motors recalled all its EV1 electric cars in 2003 and then destroyed them, and seeing the higher fuel efficiency of battery-electric cars as an opportunity to break the usual correlation between high performance and low fuel economy in automobiles. The company's name is a tribute to inventor and electrical engineer Nikola Tesla who invented the Induction motor used in Tesla automobiles.  Eberhard said that he wanted to build **"a car manufacturer that is also a technology company"**, with its core technologies as "the battery, the computer software, and the proprietary motor". In February 2004, via a $6.5 million investment, Elon Musk became the company's largest shareholder. He became CEO in 2008. Tesla's announced mission is to create products which help "accelerate the world’s transition to sustainable energy."
+The founders were influenced to start the company after General Motors recalled all its EV1 electric cars in 2003 and then destroyed them, and seeing the higher fuel efficiency of battery-electric cars as an opportunity to break the usual correlation between high performance and low fuel economy in automobiles. The company's name is a tribute to inventor and electrical engineer **Nikola Tesla** who invented the **Induction motor** used in Tesla automobiles.  Eberhard said that he wanted to build **"a car manufacturer that is also a technology company"**, with its core technologies as "the battery, the computer software, and the proprietary motor". In February 2004, via a $6.5 million investment, Elon Musk became the company's largest shareholder. He became CEO in 2008. Tesla's announced mission is to create products which help "accelerate the world’s transition to sustainable energy."
 
-* Funding and Growth:
+* **Funding and Growth:**
    
 Inital Funding for the company was obtained from a variety of sources, most notably PayPal cofounder **Elon Musk**, who contributed more than $30 million to the new venture and served as chairman of the company, beginning in 2004. In February 2006, Musk led Tesla's Series B venture capital funding round of $13 million, which added Valor Equity Partners to the funding team. Musk co-led the third, $40 million round in May 2006 which saw investment from prominent entrepreneurs including Google co-founders Sergey Brin and Larry Page, and former eBay President Jeff Skoll. A fourth round worth $45 million in May 2007 brought the total private financing investment to over $105 million. In  2008 Musk took over as CEO. In June 2009, Tesla was approved to receive $465 million in interest-bearing loans from the United States Department of Energy. The funding, part of the $8 billion Advanced Technology Vehicles Manufacturing Loan Program, supported the engineering and production of the Model S sedan, as well as the development of commercial powertrain technology. In 2010 Tesla’s provided an initial public offering which raised some $226 million. In May 2010, Tesla purchased what would later become the Tesla Factory in Fremont, California, from Toyota for $42 million, and opened the facility in October 2010 to start production of the Model S. **On June 29, 2010, the company went public via an initial public offering (IPO) on the NASDAQ**, the first American car company to do so since the Ford Motor Company had its IPO in 1956. The company issued 13.3 million shares of common stock at a price of $17 per share, raising $226 million. 
 
@@ -36,11 +36,13 @@ From July 2019 to June 2020, **Tesla reported four consecutive profitable quarte
 
 ## Business Activities:
 
-* Problem Addressed:
+* **Problem Addressed:**
 
 Tesla, Inc viewed itself and its automobile offerings as a "Technology Company" rather than a simple automobile manufacturer. Its significant **AI contribution was the self-driving autonomous software** that provided customers with a new paradigm for driving without manual openration. Autopilot is an advanced driver assistance system that enhances safety and convenience behind the wheel. When used       properly, Autopilot reduces your overall workload as a driver. Each new Tesla vehicle is equipped with multiple external cameras and powerful vision processing to provide an additional layer of safety. 
 
-* Target Customer:
+* **Target Customer:**
+
+  
 
   
 
