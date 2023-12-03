@@ -82,9 +82,9 @@ Tesla has made significant contributions in the autonomous driving systems marke
   
 The market for electric vehicles measures success based on 3 core metrics: availability, reliability, and convenience.
 
-**Availability** is measured by a consumers "range anxiety" which is a critical factor for people who consider buying an EV. This means that every 50-60 miles, there must be a publicly accessible charging station available.
+**Availability:** is measured by a consumers "range anxiety" which is a critical factor for people who consider buying an EV. This means that every 50-60 miles, there must be a publicly accessible charging station available.
 
-**Reliability** The second aspect consumers value when it comes to EV charging is the reliability of the charging infrastructure.
+**Reliability:** The second aspect consumers value when it comes to EV charging is the reliability of the charging infrastructure.
 
 
 
