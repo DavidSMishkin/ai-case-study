@@ -64,7 +64,9 @@ Tesla automobiles also use high-capacity lithium-ion batteries to power the vehi
 
 Tesla, Inc. operates in the global Electric Vehicle Industy employing Generative AI solutions for autonomous driving systems.
 
-* **Major Trends in hte Industry**
+* **Major Trends in the Industry**
+
+Electric car sales saw another record year in 2022, despite supply chain disruptions, macro-economic and geopolitical uncertainty, and high commodity and energy prices. The growth in electric car sales took place in the context of globally contracting car markets: total car sales in 2022 dipped by 3% relative to 2021. Electric car sales – including battery electric vehicles (BEVs) and plug-in hybrid electric vehicles (PHEVs) – exceeded 10 million last year, up 55% relative to 2021. This figure – 10 million EV sales worldwide – exceeds the total number of cars sold across the entire European Union (about 9.5 million vehicles) and is nearly half of the total number of cars sold in China in 2022. In the course of just five years, from 2017 to 2022, EV sales jumped from around 1 million to more than 10 million. It previously took five years from 2012 to 2017 for EV sales to grow from 100,000 to 1 million, underscoring the exponential nature of EV sales growth. The share of electric cars in total car sales jumped from 9% in 2021 to 14% in 2022, more than 10 times their share in 2017.
 
 
   
