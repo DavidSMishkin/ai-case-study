@@ -46,6 +46,8 @@ Tesla's targeting segmentation approach includes behavioral and psychographic se
 
 Other consumer groups inside their target market acted and valued things differently from the group above, according to their marketing segmentation and targeting technique. They were dubbed **"fad users"** since they would quickly follow a trendy trend or connect with stardom. Tesla, Inc. has stated business plans to develop and introduce a budget vehicles, which will be far less expensive and smaller than prior models. Tesla's competitive advantage stems from its ability to employ current technologies more efficiently.
 
+
+
   
 
   
