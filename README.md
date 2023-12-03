@@ -24,7 +24,7 @@ Module 1 Challenge - by David Mishkin
   
 * Idea Origin:
     
-The founders were influenced to start the company after General Motors recalled all its EV1 electric cars in 2003 and then destroyed them, and seeing the higher fuel efficiency of battery-electric cars as an opportunity to break the usual correlation between high performance and low fuel economy in automobiles. The company's name is a tribute to inventor and electrical engineer **Nikola Tesla** who invented the **Induction motor** used in Tesla automobiles.  Eberhard said that he wanted to build **"a car manufacturer that is also a technology company"**, with its core technologies as "the battery, the computer software, and the proprietary motor". In February 2004, via a $6.5 million investment, Elon Musk became the company's largest shareholder. He became CEO in 2008. Tesla's announced mission is to create products which help "accelerate the world’s transition to sustainable energy."
+The founders were influenced to start the company after General Motors recalled all its EV1 electric cars in 2003 and then destroyed them, and seeing the higher fuel efficiency of battery-electric cars as an opportunity to break the usual correlation between high performance and low fuel economy in automobiles. The company's name is a tribute to inventor and electrical engineer **Nikola Tesla** who invented the **Induction motor** used in Tesla automobiles.  Eberhard said that he wanted to build **"a car manufacturer that is also a technology company"**, with its core technologies including the battery, the computer software, and the proprietary motor. In February 2004, via a $6.5 million investment, Elon Musk became the company's largest shareholder. He became CEO in 2008. Tesla's announced mission is to create products which help "accelerate the world’s transition to sustainable energy."
 
 * **Funding and Growth:**
    
@@ -48,7 +48,7 @@ Other consumer groups inside their target market acted and valued things differe
 
 * **Unique Solution and Technology**
 
-Tesla's competitive advantage stems from its ability to employ current technologies more efficiently than competitors. Tesla has designed battery systems and electric vehicles with the highest technological advancements. It has advanced technology to cool and heat their batteries which greatly extends battery life. These technological advances are resonating with consumers, Tesla's market share has grown and they have become the largest manufacturer of electric vehicles. Recent car price cuts are improving affordability, and demand is very high over their competitors.
+Tesla's competitive advantage stems from its ability to employ current **Electric Vehicle (EV)** technologies more efficiently than competitors. Tesla has designed battery systems and electric vehicles with the highest technological advancements. It has advanced technology to cool and heat their batteries which greatly extends battery life. These technological advances are resonating with consumers, Tesla's market share has grown and they have become the largest manufacturer of electric vehicles. Recent car price cuts are improving affordability, and demand is very high over their competitors.
 
 Tesla also has two main advantages compared to competitors. **They have the infrastructure for autonomous cars in place and they have their data operations in place.** This gives Tesla automobiles an advantage in AI-competitions. It’s not only about having the technology. It’s even more important to have the strategic position to utilize the technology and that’s exactly what Tesla has done right. 
 
@@ -58,7 +58,12 @@ Tesla’s has also developed a network of **Supercharger stations** which provid
 
 Tesla automobiles also use high-capacity lithium-ion batteries to power the vehicle's electric motor. Tesla cars use a high-performance electric motor that is capable of producing instant torque and high power output. Tesla cars feature **Generative AI solutions like "Autopilot"** which is an advanced driver-assistance system that uses cameras, radar, and other sensors to assist with driving tasks and increase safety. Tesla cars can receive software updates over the air, which allows the company to improve the car's performance and add new features without requiring the owner to bring the car into a service center. Tesla cars feature an advanced user interface with a large touchscreen that allows drivers to access various features, control the car's settings, and navigate using maps and other apps.
 
-* **Landscape of Tesla's AI Industry**
+* **Landscape of Tesla's Industry**
+
+*Field of Operation
+
+
+  
 
   
 
