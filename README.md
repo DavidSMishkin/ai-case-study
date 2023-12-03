@@ -74,6 +74,8 @@ Tesla's competitors include Ford and General Motors. Other Industry leaders incl
 
 ## Results of Tesla, Inc.
 
+* **Business Impact:**
+
 Tesla has made significant contributions in the autonomous driving systems market for Automobile applications. The company's advancements  Lithium-ion battery technology, charging infrastructure and artificial intelligence based driving algorithms have been important in improving automated driving capabilities, particularly against competitors in the elctric vehicle marketplace.
 
 
