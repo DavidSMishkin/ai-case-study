@@ -81,7 +81,7 @@ Tesla's business model successfully incorporates all 3 of these metrics as the c
 ## Addendum: Sources Cited
 
 Investopedia "The Story Behind Tesla's Success": (https://www.investopedia.com/articles/personal-finance/061915/story-behind-teslas-success.asp)
-
+Wilkepedia "Tesla, Inc." [https://en.wikipedia.org/wiki/Tesla,_Inc.]
 
 
 
