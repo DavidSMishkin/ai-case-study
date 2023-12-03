@@ -91,7 +91,7 @@ Wilkipedia "Tesla, Inc." (https://en.wikipedia.org/wiki/Tesla,_Inc.)
 
 "Tesla" (https://www.tesla.com/support/autopilot)
 
-"BUSINESS ANALYSIS Tesla Segmentation, Targeting, and Positioning":(https://www.edrawmind.com/article/tesla-segmentation-targeting-and-positioning.html#:~:text=Tesla's%20targeting%20segmentation%20approach%20includes,term%20cost%2Deffectiveness%20of%20automobiles.)
+"Tesla Segmentation, Targeting, and Positioning":(https://www.edrawmind.com/article/tesla-segmentation-targeting-and-positioning.html#:~:text=Tesla's%20targeting%20segmentation%20approach%20includes,term%20cost%2Deffectiveness%20of%20automobiles.)
 
 "Generative AI explained as a Tesla": (https://www.linkedin.com/pulse/generative-ai-explained-tesla-cyril-treacy/)
 
