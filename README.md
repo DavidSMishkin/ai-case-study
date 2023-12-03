@@ -76,9 +76,16 @@ Tesla's competitors include Ford and General Motors. Other Industry leaders incl
 
 * **Business Impact:**
 
-Tesla has made significant contributions in the autonomous driving systems market for Automobile applications. The company's advancements in Lithium-ion battery technology, charging infrastructure and artificial intelligence based driving algorithms have been important in improving automated and resource efficient driving capabilities, particularly against competitors in the elctric vehicle marketplace.
+Tesla has made significant contributions in the autonomous driving systems market for Automobile applications. The company's advancements in Lithium-ion battery technology, charging infrastructure and artificial intelligence based driving algorithms have been important in improving automated and resource efficient driving capabilities, particularly against competitors in the electric vehicle marketplace.
 
 * **Core Metrics of Success**
+  
+The market for electric vehicles measures success based on 3 core metrics: availability, reliability, and convenience.
+
+**Availability** is measured by a consumers "range anxiety" which is a critical factor for people who consider buying an EV. This means that every 50-60 miles, there must be a publicly accessible charging station available.
+
+**Reliability** The second aspect consumers value when it comes to EV charging is the reliability of the charging infrastructure.
+
 
 
 
