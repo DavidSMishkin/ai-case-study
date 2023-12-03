@@ -38,5 +38,10 @@ From July 2019 to June 2020, **Tesla reported four consecutive profitable quarte
 
 * Problem Addressed:
 
-Tesla, Inc viewed itself and its automobile offerings as a "Technology Company" rather than a simple automobile manufacturer. Its significant **AI contribution was the self-driving autonomous software** that provided customers with a new paradigm for driving without manual openration. Autopilot is an advanced driver assistance system that enhances safety and convenience behind the wheel. When used properly, Autopilot reduces your overall workload as a driver. Each new Tesla vehicle is equipped with multiple external cameras and powerful vision processing to provide an additional layer of safety. 
+Tesla, Inc viewed itself and its automobile offerings as a "Technology Company" rather than a simple automobile manufacturer. Its significant **AI contribution was the self-driving autonomous software** that provided customers with a new paradigm for driving without manual openration. Autopilot is an advanced driver assistance system that enhances safety and convenience behind the wheel. When used       properly, Autopilot reduces your overall workload as a driver. Each new Tesla vehicle is equipped with multiple external cameras and powerful vision processing to provide an additional layer of safety. 
 
+* Target Customer:
+
+  
+
+  
