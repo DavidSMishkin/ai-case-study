@@ -60,7 +60,7 @@ Tesla automobiles also use high-capacity lithium-ion batteries to power the vehi
 
 * **Landscape of Tesla's Industry**
 
-*Field of Operation
+* Field of Operation
 
 
   
