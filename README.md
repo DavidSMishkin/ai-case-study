@@ -84,7 +84,9 @@ The market for electric vehicles measures success based on 3 core metrics: avail
 
 **Availability:** is measured by a consumers "range anxiety" which is a critical factor for people who consider buying an EV. This means that every 50-60 miles, there must be a publicly accessible charging station available.
 
-**Reliability:** The second aspect consumers value when it comes to EV charging is the reliability of the charging infrastructure. People can spend 20-30 minutes charging their electric cars, and they like having the option to spend their time in a productive way while waiting for their charge to complete. This will also benefit retailers who provide shopping and dining services to EV owners which could provide additional revenue for such services.
+**Reliability:** The second aspect consumers value when it comes to EV charging is the reliability of the charging infrastructure. 
+
+**Convenience:** People can spend 20-30 minutes charging their electric cars, and they like having the option to spend their time in a productive way while waiting for their charge to complete. This will also benefit retailers who provide shopping and dining services to EV owners which could provide additional revenue for such services.
 
 
 
