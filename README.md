@@ -83,9 +83,22 @@ Tesla's business model successfully incorporates all 3 of these metrics as the c
 Investopedia "The Story Behind Tesla's Success": (https://www.investopedia.com/articles/personal-finance/061915/story-behind-teslas-success.asp)
 
 
-Wilkepedia "Tesla, Inc." (https://en.wikipedia.org/wiki/Tesla,_Inc.)
+Wilkipedia "Tesla, Inc." (https://en.wikipedia.org/wiki/Tesla,_Inc.)
 
-"Tesla Inc. (https://stockanalysis.com/stocks/tsla/)
+"Tesla Inc." (https://stockanalysis.com/stocks/tsla/)
+
+"Tesla, Inc. American Company" (https://www.britannica.com/topic/Tesla-Motors)
+
+"Tesla" (https://www.tesla.com/support/autopilot)
+
+BUSINESS ANALYSIS Tesla Segmentation, Targeting, and Positioning: 
+(https://www.edrawmind.com/article/tesla-segmentation-targeting-and-positioning.html#:~:text=Tesla's%20targeting%20segmentation%20approach%20includes,term%20cost%2Deffectiveness%20of%20automobiles.)
+
+"Generative AI explained as a Tesla": (https://www.linkedin.com/pulse/generative-ai-explained-tesla-cyril-treacy/)
+
+"Tesla: Competitive Advantages, Favorable Valuation" (https://seekingalpha.com/article/4589277-tesla-competitive-advantages-favorable-stock-valuation)
+
+"Tesla’s self-driving AI technology is not a competitive advantage" (https://www.danrose.ai/blog/l2jbkgjevrcy4nyqlb6es2o0brf04y#:~:text=Tesla%20has%20two%20main%20advantages,you%20win%20in%20AI%2Dcompetitions.)
 
 
 
