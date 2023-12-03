@@ -85,6 +85,8 @@ Investopedia "The Story Behind Tesla's Success": (https://www.investopedia.com/a
 
 Wilkepedia "Tesla, Inc." (https://en.wikipedia.org/wiki/Tesla,_Inc.)
 
+"Tesla Inc. (https://stockanalysis.com/stocks/tsla/)
+
 
 
 
