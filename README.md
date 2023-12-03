@@ -38,13 +38,26 @@ From July 2019 to June 2020, **Tesla reported four consecutive profitable quarte
 
 * **Problem Addressed:**
 
-Tesla, Inc viewed itself and its automobile offerings as a "Technology Company" rather than a simple automobile manufacturer. Its significant **AI contribution was the self-driving autonomous software** that provides customers with a new paradigm for driving without manual openration. Autopilot is an advanced driver assistance system that enhances safety and convenience behind the wheel and efficiency. When used properly, Autopilot reduces your overall workload as a driver. Each new Tesla vehicle is equipped with multiple external cameras and powerful vision processing to provide an additional layer of safety. 
+Tesla, Inc viewed itself and its automobile offerings as a "Technology Company" rather than a simple automobile manufacturer. Its significant **AI contribution was the self-driving autonomous software** that provides customers with a new paradigm for driving without manual operation. Autopilot is an advanced driver assistance system that enhances safety and convenience behind the wheel and efficiency. When used properly, Autopilot reduces your overall workload as a driver. Each new Tesla vehicle is equipped with multiple external cameras and powerful vision processing to provide an additional layer of safety. 
 
 * **Target Customer:**
 
 Tesla's targeting segmentation approach includes behavioral and psychographic segmentation. It is aimed at dedicated and aspiring **middle and upper-class customer**s who want and are looking for prestige, the appearance of being **environmentally friendly**, and the long-term cost-effectiveness of automobiles. . Because Tesla Inc.'s strategic goal is to capture the mass market, the major target markets should be sectors with characteristics that are comparable to those of mass markets. 
 
-Other consumer groups inside their target market acted and valued things differently from the group above, according to their marketing segmentation and targeting technique. They were dubbed **"fad users"** since they would quickly follow a trendy trend or connect with stardom. Tesla, Inc. has stated business plans to develop and introduce a budget vehicles, which will be far less expensive and smaller than prior models. Tesla's competitive advantage stems from its ability to employ current technologies more efficiently.
+Other consumer groups inside their target market acted and valued things differently from the group above, according to their marketing segmentation and targeting technique. They were dubbed **"fad users"** since they would quickly follow a trendy trend or connect with stardom. Tesla, Inc. has stated business plans to develop and introduce budget vehicles, which will be far less expensive and smaller than prior models. 
+
+* **Unique Solution and Technology**
+
+Tesla's competitive advantage stems from its ability to employ current technologies more efficiently. Tesla has designed battery systems and electric vehicles with the highest technological advancements. It has advanced technology to cool and heat their batteries which greatly extends battery life. These technological advances are resonating with consumers, Tesla's market share has skyrocketed and they have become the largest manufacturer of electric vehicles. Recent car price cuts are improving affordability, and demand is very high over their competitors.
+
+Tesla also has two main advantages compared to competitors. They have the infrastructure for autonomous cars in place and they have their data operations in place. This gives Tesla automobiles an advantage in AI-competitions. It’s not only about having the technology. It’s even more important to have the strategic position to utilize the technology and that’s exactly what Tesla has done right. 
+
+Tesla has been building their infrastructure by making all their cars ready to drive autonomously, simply by sending out a software update. They have hit the ground running while all other manufactures are still "tying their shoelaces". Tesla will as a result quickly get market share that sticks and can get valuable learning and insights before anyone else. They also have manufacturing in place and have been practising making almost the complete product for years. This will make it way cheaper for Tesla to produce the cars that any other car maker can do.
+
+They also have the right data operations. Right now Tesla is collecting insane amounts of data at a very low cost. As explained here, having low cost, high quality data operations are the true competitive advantage of AI.
+
+
+
 
 
 
