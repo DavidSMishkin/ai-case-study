@@ -70,6 +70,8 @@ Electric car sales saw another record year in 2022, despite supply chain disrupt
 
 * **Major Competitorsin in this Field:**
 
+Tesla's competitors include Ford and General Motors. Other Industry leaders include Nio, Nissan, Toyota, Audi, BMW and Rivian. 
+
 
 
 
