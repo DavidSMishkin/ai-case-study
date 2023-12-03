@@ -62,7 +62,11 @@ Tesla automobiles also use high-capacity lithium-ion batteries to power the vehi
 
 * **Field of Operation:**
 
-Tesla, Inc. operates in the global Electric Vehicle Industy employing Generative AI solutions for autonomous driving systems
+Tesla, Inc. operates in the global Electric Vehicle Industy employing Generative AI solutions for autonomous driving systems.
+
+* **Major Trends in hte Industry**
+
+
   
 
 
