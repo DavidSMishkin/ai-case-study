@@ -88,7 +88,9 @@ The market for electric vehicles measures success based on 3 core metrics: avail
 
 **Convenience:** People can spend 20-30 minutes charging their electric cars, and they like having the option to spend their time in a productive way while waiting for their charge to complete. This will also benefit retailers who provide shopping and dining services to EV owners which could provide additional revenue for such services.
 
-Tesla's business model successfully incorporates all 3 of these metrics as the company has made critical investments in vast charging station infrastructure and long range power output of its Lithium-ion batteries. Tesla's charging stations are often located with convenience store and restaurant or retail establishments.
+Tesla's business model successfully incorporates all 3 of these metrics as the company has made critical investments in vast charging station infrastructure and long range power output of its Lithium-ion batteries. Tesla's charging stations are often located with convenience store and restaurant or retail establishments. Other EV companies have begun to use Teslas enormous charging infrastructure to recharge their automobiles as they have not developed their own charging infrastructure. This benefits Tesla who is first to the market with EV charging infrastructure which provides a larger income stream than just selling autos alone.
+
+
 
 
 
