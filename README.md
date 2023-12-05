@@ -109,6 +109,7 @@ Wilkipedia "Tesla, Inc." (https://en.wikipedia.org/wiki/Tesla,_Inc.)
 
 "Blog: Critical Success Factors for eMobility Adoption": (https://www.dieboldnixdorf.com/en-us/retail/insights/blog-retail/critical-success-factors-for-emobility-adoption/)
 
+> fffffffffff
 
 
 
