@@ -78,6 +78,9 @@ Tesla's business model successfully incorporates all 3 of these metrics as the c
 
 ## Recommendations:
 
+
+* Tesla should incorporate methodologies to speed up charging times and long term energy storage of lithium-ion batteries in order to increase travel distance per charge and reduce the need for expensive battery replacement. This will reduce the cost to operate vehicles and improve Tesla's competative edge over other EV automobile makers. AI algorithms could be improved to manage the efficiency of Tesla's battery storage and charging times. This will reduce travel anxiety for owners and continue to support growth of the company and its Automobile performance.
+
 ## Addendum: Sources Cited
 
 Investopedia "The Story Behind Tesla's Success": (https://www.investopedia.com/articles/personal-finance/061915/story-behind-teslas-success.asp)
