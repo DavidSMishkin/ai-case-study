@@ -107,7 +107,7 @@ Wilkipedia "Tesla, Inc." (https://en.wikipedia.org/wiki/Tesla,_Inc.)
 
 "From Ford to GM: Who Are Tesla’s Biggest Competitors & Rivals?": (https://www.cmcmarkets.com/en/news-and-analysis/who-are-teslas-competitors-rivals}
 
-"Blog: Critical Success Factors for eMobility Adoption": (https://www.dieboldnixdorf.com/en-us/retail/insights/blog-retail/critical-success-factors-for-emobility-adoption/)
+"Blog: Critical Success Factors for eMobility Adoption": (https://www.dieboldnixdorf.com/en-us/retail/insights/blog-retail/critical-success-factors-for-emobility-adoption/) 
 
 
 
